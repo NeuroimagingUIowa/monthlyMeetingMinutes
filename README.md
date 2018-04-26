@@ -8,6 +8,8 @@
 
 ## April
 - introductions (if there are new people)
+- [fmriprep preprint is out](https://www.biorxiv.org/content/early/2018/04/25/306951)
+- recruitment
 - [reproin intro](https://github.com/ReproNim/reproin)
 - [xnat_downloader demo](https://github.com/HBClab/xnat_downloader)
 - Can we use/improve dcm2niix to support more BIDS fields or should we focus on our own tools?
