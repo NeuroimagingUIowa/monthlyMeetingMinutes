@@ -13,3 +13,8 @@
 - [reproin intro](https://github.com/ReproNim/reproin)
 - [xnat_downloader demo](https://github.com/HBClab/xnat_downloader)
 - Can we use/improve dcm2niix to support more BIDS fields or should we focus on our own tools?
+
+## May
+- Brief remarks about the brainhack and brainstorming about other training opportunities (Jatin has a cool idea!)
+- Pro/Cons of having a central repository (probably on Github) to place shareable scripts at uiowa (like the T1rho analysis scripts?)
+- See what we would like to learn about over the summer (e.g. if other people would like to lead discussion and teach us about something they are working on)
