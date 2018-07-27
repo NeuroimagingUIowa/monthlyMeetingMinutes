@@ -23,4 +23,4 @@
 - Tim Kocik gave a great tutorial about doing some basic neuroimaging analysis using R. (loading data in/performing basic modelling, etc)
 
 ## July
-- cron tutorial (James Kent)
+- [cron tutorial](https://slides.com/jameskent/cron#/) (James Kent)
