@@ -20,7 +20,10 @@
 - See what we would like to learn about over the summer (e.g. if other people would like to lead discussion and teach us about something they are working on)
 
 ## June
-- Tim Kocik gave a great tutorial about doing some basic neuroimaging analysis using R. (loading data in/performing basic modelling, etc)
+- Dr. Tim Kocik gave a great tutorial about doing some basic neuroimaging analysis using R. (loading data in/performing basic modelling, etc)
 
 ## July
 - [cron tutorial](https://slides.com/jameskent/cron#/) (James Kent)
+
+## August
+- Dr. Merry Mani graciously gave a [diffusion imaging tutorial using FSL](https://github.com/NeuroimagingUIowa/dwiProcessingTutorial)
