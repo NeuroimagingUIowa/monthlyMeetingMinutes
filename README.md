@@ -20,7 +20,8 @@
 - See what we would like to learn about over the summer (e.g. if other people would like to lead discussion and teach us about something they are working on)
 
 ## 2018 June
-- Dr. Tim Koscik gave a great tutorial about doing some basic [neuroimaging analysis using R](data/2018-06-29_tim-koscik_r-neuroimaging.html). (loading data in/performing basic modelling, etc)
+- Dr. Tim Koscik gave a great tutorial about doing some basic [neuroimaging analysis using R](data/2018-06-29_tim-koscik_r-neuroimaging.html). (loading data in/performing basic modelling, etc) 
+**Note**: you need to download the `html` file and open it with your browser to see the contents
 
 ## 2018 July
 - [cron tutorial](https://slides.com/jameskent/cron#/) (James Kent)
