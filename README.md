@@ -32,3 +32,9 @@
 ## 2018 September
 - No meeting, but we distributed a paper about [good spreadsheet organizational practices]( https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989) and encouraged people to sign up
 for the [uiowa hackathon](https://bigdata.uiowa.edu/)
+
+## 2018 October
+- Mark Bowren delivered an explanation of [LESYMAP](https://github.com/dorianps/LESYMAP) and associated tutorial (to be uploaded) to try it out for yourself.
+
+## 2018 November
+- James Kent talked about [workflows and nipype](https://slides.com/jameskent/workflows-and-nipype#/) and used [Michael Notter's quick-start to nipype](https://miykael.github.io/nipype_tutorial/notebooks/introduction_quickstart_non-neuroimaging.html) for demonstration.
