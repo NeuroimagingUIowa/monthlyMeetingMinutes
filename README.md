@@ -38,3 +38,9 @@ for the [uiowa hackathon](https://bigdata.uiowa.edu/)
 
 ## 2018 November
 - James Kent talked about [workflows and nipype](https://slides.com/jameskent/workflows-and-nipype#/) and used [Michael Notter's quick-start to nipype](https://miykael.github.io/nipype_tutorial/notebooks/introduction_quickstart_non-neuroimaging.html) for demonstration.
+
+## 2018 December
+- No Meeting (Happy Holidays!)
+
+## 2019 January
+- James Kent recently attended [CoastalCoding](https://github.com/nipype/coco2019-training). A brief overview of the training materials were presented along with a more in-depth walkthrough on [GiraffeTools](https://github.com/TimVanMourik/GiraffeTools), a visual tool to create nipype workflows.
