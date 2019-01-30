@@ -1,4 +1,5 @@
 # monthlyMeetingMinutes
+Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
 
 ## 2018 March
 - introduction: name/department/something you want out of this meeting
