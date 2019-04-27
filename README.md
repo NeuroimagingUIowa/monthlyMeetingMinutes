@@ -1,6 +1,13 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
 
+## 2019 April
+- James Kent [gave a tutorial on xcpEngine](https://github.com/NeuroimagingUIowa/xcpEngineTutorial) that was largely based on the tutorial already provided in the [xcpEngine documentation](https://xcpengine.readthedocs.io/config/tutorial.html)
+
+## 2019 March
+- No Meeting
+- Sent survey for people to fill out for dates for brainhack
+
 ## 2019 February
 - James Kent [documents his adventures with CPAC](https://github.com/NeuroimagingUIowa/cpacAdventures) (will be updated).
 
