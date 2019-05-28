@@ -1,6 +1,9 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
 
+## 2019 May
+- No Meeting, but a link was sent out to cover the [brainiak tutorials](https://brainiak.org/tutorials/)
+
 ## 2019 April
 - James Kent [gave a tutorial on xcpEngine](https://github.com/NeuroimagingUIowa/xcpEngineTutorial) that was largely based on the tutorial already provided in the [xcpEngine documentation](https://xcpengine.readthedocs.io/config/tutorial.html)
 
