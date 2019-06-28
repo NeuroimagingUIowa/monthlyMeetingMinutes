@@ -1,6 +1,10 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
 
+## 2019 June
+- James covered [brainiak](https://brainiak.org/) and part of the [rsa tutorial](https://brainiak.org/tutorials/06-rsa/)
+- [VIDEO HERE](https://youtu.be/r0hR3fLlpN8)
+
 ## 2019 May
 - No Meeting, but a link was sent out to cover the [brainiak tutorials](https://brainiak.org/tutorials/)
 
