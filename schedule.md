@@ -1,26 +1,26 @@
-| Year | Month     | Lead        | Topic             |
-|------|-----------|-------------|-------------------|
-| 2020 | Feburary  | TBA         | TBA               |
-| 2020 | January   | TBA         | TBA               |
-| 2019 | December  | TBA         | TBA               |
-| 2019 | November  | TBA         | TBA               |
-| 2019 | October   | TBA         | TBA               |
-| 2019 | September | TBA         | TBA               |
-| 2019 | August    | TBA         | TBA               |
-| 2019 | July      | TBA         | TBA               |
-| 2019 | June      | James Kent  | Brainiak          |
-| 2019 | May       | N/A         | Brainiak          |
-| 2019 | April     | James Kent  | XCP-engine        |
-| 2019 | March     | N/A         | Brainhack         |
-| 2019 | Feburary  | James Kent  | CPAC              |
-| 2019 | January   | James Kent  | Coastal Coding    |
-| 2018 | December  | N/A         | N/A               |
-| 2018 | November  | James Kent  | Nipype            |
-| 2018 | October   | Mark Bowren | Lesion Mapping    |
-| 2018 | September | N/A         | Spreadsheets      |
-| 2018 | August    | Merry Mani  | Diffusion MRI     |
-| 2018 | July      | James Kent  | Cron              |
-| 2018 | June      | Tim Koscik  | Neuroimaging in R |
-| 2018 | May       | James Kent  | Brainhack         |
-| 2018 | April     | James Kent  | BIDS              |
-| 2018 | March     | James Kent  | Introduction      |
+| Year | Month     | Day | Time   | Lead        | Topic             |
+|------|-----------|-----|--------|-------------|-------------------|
+| 2020 | Feburary  | 21  | 1:00pm | TBA         | TBA               |
+| 2020 | January   | 24  | 1:00pm | TBA         | TBA               |
+| 2019 | December  | N/A | 1:00pm | N/A         | N/A               |
+| 2019 | November  | 29  | 1:00pm | TBA         | TBA               |
+| 2019 | October   | 25  | 1:00pm | TBA         | TBA               |
+| 2019 | September | 27  | 1:00pm | TBA         | TBA               |
+| 2019 | August    | 23  | 1:00pm | TBA         | TBA               |
+| 2019 | July      | 26  | 1:00pm | TBA         | TBA               |
+| 2019 | June      | 28  | 1:00pm | James Kent  | brainiak          |
+| 2019 | May       | 24  | 1:00pm | N/A         | brainiak          |
+| 2019 | April     | 26  | 1:00pm | James Kent  | xcp-engine        |
+| 2019 | March     | N/A | 1:00pm | N/A         | Brainhack         |
+| 2019 | Feburary  | 22  | 1:00pm | James Kent  | CPAC              |
+| 2019 | January   | 25  | 1:00pm | James Kent  | Coastal Coding    |
+| 2018 | December  | N/A | 1:00pm | N/A         | N/A               |
+| 2018 | November  | 30  | 1:00pm | James Kent  | Nipype            |
+| 2018 | October   | 26  | 1:00pm | Mark Bowren | Lesion Mapping    |
+| 2018 | September | N/A | 1:00pm | N/A         | spreadsheets      |
+| 2018 | August    | 24  | 1:00pm | Merry Mani  | Diffusion MRI     |
+| 2018 | July      | 27  | 1:00pm | James Kent  | Cron              |
+| 2018 | June      | 22  | 1:00pm | Tim Koscik  | Neuroimaging in R |
+| 2018 | May       | 25  | 1:00pm | James Kent  | Brainhack         |
+| 2018 | April     | 27  | 2:00pm | James Kent  | BIDS              |
+| 2018 | March     | 23  | 1:00pm | James Kent  | Introduction      |
