@@ -3,7 +3,7 @@
 | 2020 | Feburary  | 21  | 1:00pm | TBA         | TBA               |
 | 2020 | January   | 24  | 1:00pm | TBA         | TBA               |
 | 2019 | December  | N/A | 1:00pm | N/A         | N/A               |
-| 2019 | November  | 29  | 1:00pm | TBA         | TBA               |
+| 2019 | November  | 22  | 1:00pm | TBA         | TBA               |
 | 2019 | October   | 25  | 1:00pm | TBA         | TBA               |
 | 2019 | September | 27  | 1:00pm | TBA         | TBA               |
 | 2019 | August    | 23  | 1:00pm | TBA         | TBA               |
