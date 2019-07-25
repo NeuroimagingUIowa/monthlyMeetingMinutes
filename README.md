@@ -1,6 +1,10 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
 
+## 2019 July
+- Flywheel representatives came down and gave a presentation on their services during the brainhack.
+- [VIDEO HERE](https://www.youtube.com/watch?v=rHW2FgS4OUw)
+
 ## 2019 June
 - James covered [brainiak](https://brainiak.org/) and part of the [rsa tutorial](https://brainiak.org/tutorials/06-rsa/)
 - [VIDEO HERE](https://youtu.be/r0hR3fLlpN8)
