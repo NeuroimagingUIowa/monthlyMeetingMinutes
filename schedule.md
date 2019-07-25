@@ -7,7 +7,7 @@
 | 2019 | October   | 25  | 1:00pm | TBA         | TBA               |
 | 2019 | September | 27  | 1:00pm | TBA         | TBA               |
 | 2019 | August    | 23  | 1:00pm | TBA         | TBA               |
-| 2019 | July      | 26  | 1:00pm | TBA         | TBA               |
+| 2019 | July      | 26  | 1:00pm | Flywheel    | Flywheel          |
 | 2019 | June      | 28  | 1:00pm | James Kent  | brainiak          |
 | 2019 | May       | 24  | 1:00pm | N/A         | brainiak          |
 | 2019 | April     | 26  | 1:00pm | James Kent  | xcp-engine        |
