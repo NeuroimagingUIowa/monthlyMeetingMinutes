@@ -1,6 +1,10 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
 
+## 2019 August
+- James gave an overview on building a Dockerfile for [GE_dcm_to_nii](https://github.com/NeuroimagingUIowa/GE_dcm_to_nii)
+- [VIDEO HERE](https://www.youtube.com/watch?v=fIwK3sP1sC0&feature=youtu.be)
+
 ## 2019 July
 - Flywheel representatives came down and gave a presentation on their services during the brainhack.
 - [VIDEO HERE](https://www.youtube.com/watch?v=rHW2FgS4OUw)
