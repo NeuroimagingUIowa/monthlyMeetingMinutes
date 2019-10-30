@@ -1,8 +1,17 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
 
+## 2019 October
+- Dr. Vincent Magnotta gave a presentation on Magnetic Resonance Spectroscopy (MRS) and
+listed available software to analyze the data.
+- [powerpoint slides](data/NeuroImaging-MRS.pptx)
+
+## 2019 September
+- James Kent gave a presentation on [NiBetaSeries](https://nibetaseries.readthedocs.io/en/stable/)
+- [VIDEO HERE](https://www.youtube.com/watch?v=ZeuddWnzVuA) (sorry the audio recording failed)
+
 ## 2019 August
-- James gave an overview on building a Dockerfile for [GE_dcm_to_nii](https://github.com/NeuroimagingUIowa/GE_dcm_to_nii)
+- James Kent gave an overview on building a Dockerfile for [GE_dcm_to_nii](https://github.com/NeuroimagingUIowa/GE_dcm_to_nii)
 - [VIDEO HERE](https://www.youtube.com/watch?v=fIwK3sP1sC0&feature=youtu.be)
 
 ## 2019 July
@@ -10,7 +19,7 @@ Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBD
 - [VIDEO HERE](https://www.youtube.com/watch?v=rHW2FgS4OUw)
 
 ## 2019 June
-- James covered [brainiak](https://brainiak.org/) and part of the [rsa tutorial](https://brainiak.org/tutorials/06-rsa/)
+- James Kent covered [brainiak](https://brainiak.org/) and part of the [rsa tutorial](https://brainiak.org/tutorials/06-rsa/)
 - [VIDEO HERE](https://youtu.be/r0hR3fLlpN8)
 
 ## 2019 May
