@@ -1,6 +1,12 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
 
+## 2019 November
+- Dillan Cellier gave a great presentation on psychopy: how to install/how to use/tips-tricks for fMRI/EEG analyses
+- [VIDEO HERE](https://youtu.be/rddCU-RHsss)
+- [MRI CODE HERE](https://github.com/HwangLabNeuroCogDynamics/THHS-Paradigm/blob/master/THHS_Paradigm_dillan_MRI_SWAPPED.py)
+- [EEG CODE HERE](https://github.com/HwangLabNeuroCogDynamics/THHS-Paradigm/blob/master/THHS_for_EEG.py)
+
 ## 2019 October
 - Dr. Vincent Magnotta gave a presentation on Magnetic Resonance Spectroscopy (MRS) and
 listed available software to analyze the data.
