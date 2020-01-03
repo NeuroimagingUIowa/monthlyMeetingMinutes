@@ -1,5 +1,7 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
+## 2019 December
+- No Meeting (encouraged people to sign up for the [datascience institute courses](https://uiowa.edu/datascience/))
 
 ## 2019 November
 - Dillan Cellier gave a great presentation on psychopy: how to install/how to use/tips-tricks for fMRI/EEG analyses
