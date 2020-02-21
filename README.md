@@ -38,7 +38,7 @@ listed available software to analyze the data.
 - No Meeting, but a link was sent out to cover the [brainiak tutorials](https://brainiak.org/tutorials/)
 
 ## 2019 April
-- James Kent [gave a tutorial on xcpEngine](https://github.com/NeuroimagingUIowa/xcpEngineTutorial) that was largely based on the tutorial already provided in the [xcpEngine documentation](https://xcpengine.readthedocs.io/config/tutorial.html)
+- James Kent [gave a tutorial on xcpEngine](https://github.com/NeuroimagingUIowa/xcpEngineTutorial/tree/33791e00aee6239a9374febe672a0d50e6ca84fe) that was largely based on the tutorial already provided in the [xcpEngine documentation](https://xcpengine.readthedocs.io/config/tutorial.html)
 
 ## 2019 March
 - No Meeting
