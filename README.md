@@ -1,6 +1,9 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
 
+## 2020 February
+- Tien Tong gave a tutorial on incorporating a custom atlas into [xcpEngine](https://github.com/NeuroimagingUIowa/xcpEngineTutorial2).
+
 ## 2020 January
 - Joel Bruss gave a talk on [creating a whole brain parcellation](data/wta_task_joel_bruss.pptx) (cortex, cerebellum, striatum, hippocampus, amygala) using a winner take all strategy
 
