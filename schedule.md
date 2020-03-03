@@ -1,7 +1,7 @@
 | Year | Month     | Day | Time   | Lead        | Topic             |
 |------|-----------|-----|--------|-------------|-------------------|
-| 2020 | Feburary  | 21  | 1:00pm | TBA         | TBA               |
-| 2020 | January   | 24  | 1:00pm | Tien Tong?  | xcp-engine        |
+| 2020 | Feburary  | 21  | 1:00pm | Tien Tong   | xcpengine         |
+| 2020 | January   | 24  | 1:00pm | Joel Bruss  | New Atlas         |
 | 2019 | December  | N/A | 1:00pm | N/A         | N/A               |
 | 2019 | November  | 22  | 1:00pm |Dillan Cellier| psychopy         |
 | 2019 | October   | 25  | 1:00pm |Vince Magnotta| spectroscopy     |
