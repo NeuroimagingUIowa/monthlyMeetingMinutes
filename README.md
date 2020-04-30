@@ -1,6 +1,12 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
 
+## 2020 April
+- Meeting Cancelled. Suggested participants register for [neuromatch academy](https://neuromatch.io/academy/)
+
+## 2020 March 
+- Meeting Cancelled. Suggested participants checkout ["your missing semester of CS education"](https://missing.csail.mit.edu/)
+
 ## 2020 February
 - Tien Tong gave a tutorial on incorporating a custom atlas into [xcpEngine](https://github.com/NeuroimagingUIowa/xcpEngineTutorial2).
 
