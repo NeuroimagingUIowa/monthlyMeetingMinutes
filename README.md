@@ -1,5 +1,13 @@
 # monthlyMeetingMinutes
 Meetings occur every 4th friday of the month from 1:00pm-2:00pm in room L335 PBDB.
+## 2020 July
+- Meeting Cancelled.
+
+## 2020 June
+- Meeting Cancelled.
+
+## 2020 May
+- Meeting Cancelled.
 
 ## 2020 April
 - Meeting Cancelled. Suggested participants register for [neuromatch academy](https://neuromatch.io/academy/)
