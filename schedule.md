@@ -1,5 +1,6 @@
 | Year | Month     | Day | Time   | Lead        | Topic             |
 |------|-----------|-----|--------|-------------|-------------------|
+| 2020 | March     | 27  | 1:00pm | N/A         | N/A               |
 | 2020 | Feburary  | 21  | 1:00pm | Tien Tong   | xcpengine         |
 | 2020 | January   | 24  | 1:00pm | Joel Bruss  | New Atlas         |
 | 2019 | December  | N/A | 1:00pm | N/A         | N/A               |
